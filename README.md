@@ -1,0 +1,1 @@
+# -ideal-5-A-3-valued-logic-simulator
